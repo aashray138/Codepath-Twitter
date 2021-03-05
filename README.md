@@ -25,5 +25,5 @@ Here's a walkthrough of implemented user stories:
 
 Gif @ -> https://i.imgur.com/qGYVjKK.gif
 
-<img src="https://i.imgur.com/qGYVjKK.gif"/> 
-<img src="https://imgur.com/S6S7lcL.gif"/>
+<img src="https://imgur.com/qGYVjKK.gif"/> 
+
