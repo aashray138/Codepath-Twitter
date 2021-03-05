@@ -24,5 +24,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Gif @ -> https://i.imgur.com/qGYVjKK.gif
+
+Note : Content Length exceeds because of a long video. Will have to try to split it.
 <img src="https://imgur.com/qGYVjKK.gif" /> 
 
