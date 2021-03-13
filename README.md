@@ -26,10 +26,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Link : <a href = "https://imgur.com/gOgeV13" /> GIF WalkThrough 
+Link : <a href = "https://imgur.com/gOgeV13" /> GIF Walkthrough 
 
-Video Walktrhough
-<img src='https://imgur.com/gOgeV13gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Video Walkthrough
+<img src='https://imgur.com/gOgeV13gif' title=' Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
